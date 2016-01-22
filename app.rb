@@ -6,5 +6,5 @@ client = XboxVideo::Client.new(ENV['XBOX_KEY'])
 loop do
   path = client.download_random(path: './videos')
   puts "Downloaded video at #{path}"
-  sleep 25
+  sleep 35
 end
