@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    xbox_video (0.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  xbox_video
+
+BUNDLED WITH
+   1.11.2
